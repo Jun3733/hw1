@@ -241,7 +241,7 @@ You can find out more about the dataset by inspecting its documentation (which c
 ```{marginfigure}
 The two lines of code can be read as "Start with the beauty data frame, and then count the sum up the binary variable female, and display the results. The 'and then' in the previous sentence maps to %>%, the pipe operator, which takes what comes before it and plugs it in as the first argument of the function that comes after it."
 ```
-
+answer 3
 ```{r}
 beauty %>%
   summarise(no_of_female_professors=sum(female))
