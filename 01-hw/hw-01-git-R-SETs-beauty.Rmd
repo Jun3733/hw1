@@ -1,6 +1,7 @@
 ---
 title: "HW 01 - R, RStudio, Git, and GitHub"
 subtitle: "Meet the toolkit"
+author: "JUN3733"
 output: 
   tufte::tufte_html:
     css: ../hw.css
@@ -22,7 +23,7 @@ library(ggrepel)
 ```
 
 
-The goal of this assignment is to introduce you to R, RStudio, Git, and GitHub, which you'll be using throughout the course both to learn the data science concepts discussed in the course and to analyze real data and come to informed conclusions.
+The goal of this assignment is to introduce you to R, RStudio, Git, and , which you'll be using throughout the course both to learn the data science concepts discussed in the course and to analyze real data and come to informed conclusions.
 
 # Getting started
 
